@@ -7,6 +7,5 @@ const App = React.createClass({
   }
 });
 
-const mountNode = document.getElementById('
-root');
+const mountNode = document.getElementById('root');
 ReactDOM.render(<App />, mountNode);
